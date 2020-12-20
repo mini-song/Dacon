@@ -1,0 +1,22 @@
+심리 성향 예측 AI 경진대회
+2020.09.28 ~ 2020.11.16 17:59
+데이터 변수설명
+https://www.dacon.io/competitions/official/235647/talkboard/401534?page=1&dtype=recent&ptype=pub
+104/580 상위 18%
+
+참고링크
+
+https://dacon.io/competitions/official/235647/codeshare/1701?page=3&dtype=recent&ptype=pub
+Auto ML 코드공유
+
+https://dacon.io/competitions/official/235647/codeshare/1711?page=3&dtype=recent&ptype=pub
+마키아 벨리즘 score
+https://m.blog.naver.com/PostView.nhn?blogId=wlgid0727&logNo=220723273746&proxyReferer=https:%2F%2Fwww.google.com%2F
+
+
+review
+심리학 이론을 데이터 전처리, EDA에 적용하는 것이 신기했던 공모전
+중간고사 기간이 겹쳐서 끝에 마무리를 잘 못한 것 같다.
+많은 분들의 창의적인 EDA를 보고 감탄했다.
+하지만, 데이터셋 자체가 모든 사람이 비슷하게 분석을 하게 하는(?) 그런 느낌이 있었다.
+나의 창의적인 요소가 많이 들어가지 못한것 같다.
